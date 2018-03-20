@@ -1,2 +1,3 @@
 # Assignment
-This contains my assignments ~ who thought ;) 
+This contains my assignments ~
+
