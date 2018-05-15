@@ -4,4 +4,4 @@ This contains my assignments ~
 [assignment 3](https://github.com/jurmaaas/Assignment/blob/master/assignment3%20(1).ipynb)
 [assingment 4](https://github.com/jurmaaas/Assignment/blob/master/assignment4.ipynb)
 [assignment 5](https://github.com/jurmaaas/Assignment/blob/master/Graded_assignment1.ipynb)
-
+[assignment 6](https://github.com/jurmaaas/Assignment/blob/master/Graded_assignment_2.ipynb)
